@@ -29,6 +29,7 @@
 ![](https://img.shields.io/badge/Framework-Iris-informational?style=flat&logo=iris&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Library-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Library-Backbone-informational?style=flat&logo=backbone.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Library-Jquery-informational?style=flat&logo=jquery&logoColor=white&color=2bbc8a)
