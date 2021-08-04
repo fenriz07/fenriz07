@@ -19,6 +19,10 @@
 ![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DB-Redis-informational?style=flat&logo=redis&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DB-Mongo-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DB-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=2bbc8a)
+
+
+
 
 #### Os y Shell
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
